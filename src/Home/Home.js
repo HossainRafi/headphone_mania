@@ -9,7 +9,7 @@ const Home = () => {
   const [reviews] = useReviews();
   const threeReviews = reviews.slice(0, 3);
   return (
-    <div className="bg-gray-300 pb-5">
+    <div className="bg-slate-300 pb-5">
       <section className="flex justify-center items-center mx-10">
         <div className="w-1/2 mr-6">
           <h1 className="text-5xl font-serif leading-tight font-bold mb-2 mt-5 text-orange-400">
@@ -36,7 +36,7 @@ const Home = () => {
         <h1 className="text-5xl font-serif font-bold text-center text-blue-800 pt-20">
           Customer Reviews(3)
         </h1>
-        <div className="mt-10 flex flex-row gap-5 m-5">
+        <div className="mt-10 grid grid-cols-3 m-5">
           {threeReviews.map((review) => (
             <Review key={review.id} review={review} />
           ))}

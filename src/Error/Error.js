@@ -1,9 +1,11 @@
 import React from 'react';
-
+import img from "../image/CodePen-404-Page.gif";
 const Error = () => {
     return (
       <div>
-        <h1 className="text-center text-blue-700 text-6xl">404 Not Found</h1>
+        <div>
+          <img className="h-[88vh] mx-auto" src={img} alt="" />
+        </div>
       </div>
     );
 };

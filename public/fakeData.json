@@ -1,38 +1,44 @@
 [
   {
     "id": 1,
-    "name": "Adam Milne",
+    "name": "Steve Smith",
     "ratting": 4.5,
-    "comment": "The new Sony WH-1000XM4 wireless headphones are a clear improvement over Sony’s already excellent line of Bluetooth headphones. They are very comfortable and provide superb listening experience at home, traveling or in a noisy office. They incorporate extremely effective noise suppression, have easy-to-operate controls and a very long battery life. Their unmatched quality is evident in every feature."
+    "comment": "The new Sony WH-1000XM4 wireless headphones are a clear improvement over Sony’s already excellent line of Bluetooth headphones. They are very comfortable and provide superb listening experience in noisy places like home, office. Their unmatched quality is evident in every feature.",
+    "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIW7tRx0e0sPH-b45hi6Ek_vfuafVtw7pMVw&usqp=CAU"
   },
   {
     "id": 2,
     "name": "Ross Taylor",
     "ratting": 4.8,
-    "comment": "The Sony WH-1000XM4’s (XM4’s from now on) are a pair of much awaited and longed for headphones and I am here to report that Sony has impressed me yet again. Let’s start with inside the box where we have a hard carrying case, the headphones, a usb type C cable, an airplane adapter, a 3.5mm cable along with the usual paperwork."
+    "comment": "The Sony WH-1000XM4’s (XM4’s from now on) are a pair of much awaited and longed for headphones and I am here to report that Sony has impressed me yet again. Let’s start with inside the box where we have a hard carrying case, the headphones, a usb type C cable, a 3.5mm cable along with the usual paperwork.",
+    "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuRHr0abZScE4ASZVaitIPiBy9bm1lmH2EzA&usqp=CAU"
   },
   {
     "id": 3,
-    "name": "Tom Latham",
+    "name": "Ben Stokes",
     "ratting": 4.7,
-    "comment": "These are definitely the best wireless headphones I have ever owned. The headphones are very comfortable and well balanced. It may seem weird, but sometimes I forget that I am wearing them. They are adjustable and the ear cups are soft and don't press on my ears. I have worn them until the power drains with no issues. I also love the matte black color."
+    "comment": "These are definitely the best wireless headphones I have ever owned. The headphones are very comfortable, well balanced. It may seem weird, but sometimes I forget that I am wearing them. They are adjustable and the ear cups are soft and don't press on my ears. I have worn them until the power drains with no issues.",
+    "img":"https://static.independent.co.uk/2021/07/30/17/PRI192248637.jpg?width=982&height=726&auto=webp&quality=75"
   },
   {
     "id": 4,
     "name": "David Warner",
     "ratting": 4.3,
-    "comment": "A lot of you probably by now have heard the top-rated Sony WH-1000MX3 by now. And you’re obviously curious about what the differences are between the WH-1000MX3 against the newly launched WH-1000MX4. Well to cut a long story short, the changes are more subtle and not a radical improvement. So does this mean the WH-1000MX4 is not a good buy? Let’s find out with my first impressions of the Sony WH-1000MX4."
+    "comment": "A lot of you probably by now have heard the top-rated Sony WH-1000MX3 by now. And you’re obviously curious about what the differences are between the WH-1000MX3 against the newly launched WH-1000MX4. Well to cut a long story short, the changes are more subtle and not a radical improvement.",
+    "img": "https://www.mykhel.com/thumb/247x100x233/cricket/players/5/4275.jpg"
   },
   {
     "id": 5,
     "name": "Joe Root",
     "ratting": 4.8,
-    "comment": "The Sony WH-1000XM4 headphones are somewhat large, but the ear-cups are well padded and are very comfortable to wear for hours on end. The headband portion also has plenty of padding so that the headphones rest comfortably on the top of your head. This is highly recomended for anyon e who loves music."
+    "comment": "The Sony WH-1000XM4 are somewhat large, but the ear-cups are well padded and are very comfortable to wear for hours on end. The headband portion also has plenty of padding so that the headphones rest comfortably on the top of your head. This is highly recomended for anyon e who loves music.",
+    "img": "https://images.newindianexpress.com/uploads/user/imagelibrary/2021/1/27/w900X450/Joe_Root_PTI_Image.jpg?w=400&dpr=2.6"
   },
   {
     "id": 6,
-    "name": "Mark Wood",
+    "name": "Shane Watson",
     "ratting": 4.4,
-    "comment": "Best for TV viewing and Sony dual Bluetooth function helps you hear the cell ring. If you take the headphone off it pauses the movie.The noise cancelling is not as good as Bose but a slight increase of volume compensates. Battery life is phenomenal, yes 3-4 movies easy before charge necessary. Recharges swiftly too."
+    "comment": "Best for TV viewing and Sony dual Bluetooth function helps you hear the cell ring. If you take the headphone off it pauses the movie.The noise cancelling is not as good as Bose but a slight increase of volume compensates. Battery life is phenomenal, yes 3-4 movies easy before charge necessary.",
+    "img": "https://cricketaddictor.com/wp-content/uploads/2021/12/Shane-Watson.-Photo-Wikipedia.jpg"
   }
 ]
