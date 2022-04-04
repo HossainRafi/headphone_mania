@@ -8,13 +8,12 @@ const Home = () => {
   const navigate = useNavigate();
   const [reviews] = useReviews();
   const threeReviews = reviews.slice(0, 3);
-  console.log(threeReviews);
   return (
     <div className="bg-gray-300 pb-5">
       <section className="flex justify-center items-center mx-10">
         <div className="w-1/2 mr-6">
           <h1 className="text-5xl font-serif leading-tight font-bold mb-2 mt-5 text-orange-400">
-            <i class="las la-crown font-bold text-yellow-500 text-6xl"></i>King
+            <i className="las la-crown font-bold text-yellow-500 text-6xl"></i>King
             Of Noise Cancellation
           </h1>
           <h1 className="text-5xl font-bold mb-6 text-blue-500 italic">

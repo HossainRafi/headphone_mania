@@ -7,6 +7,6 @@ const useReviews = () => {
       .then((res) => res.json())
       .then((data) => setReviews(data));
   }, []);
-  return [reviews, setReviews];
+  return [reviews,setReviews];
 };
 export default useReviews;
