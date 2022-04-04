@@ -2,7 +2,7 @@ import React from "react";
 import { useNavigate } from "react-router-dom";
 import img from "../image/headphone.jpg";
 import useReviews from "../hooks/useReviews";
-import Review from "../Review/Review";
+import Review from "../Details/Details";
 
 const Home = () => {
   const navigate = useNavigate();
@@ -20,13 +20,12 @@ const Home = () => {
             Sony WH-1000XM4
           </h1>
           <p className="text-xl">
-            Industry-leading noise canceling with Dual Noise Sensor technology
+            Industry-leading noise canceling with Dual Noise Sensor technology. 
             Next-level music with Edge-AI, co-developed with Sony Music Studios
-            Tokyo Up to 30-hour battery life with quick charging (10 min charge
-            for 5 hours of playback) Touch Sensor controls to pause play skip
-            tracks, control volume, activate your voice assistant, and answer
-            phone calls Speak-to-chat technology automatically reduces volume
-            during conversations
+            Tokyo. Up to 30-hour battery life with quick charging. Touch Sensor controls to pause, play, skip
+            tracks, control volume, voice assistant, and answer
+            phone calls. Speak-to-chat technology automatically reduces volume
+            during conversations.
           </p>
         </div>
         <div className="w-1/2">
