@@ -36,12 +36,12 @@ const Home = () => {
         <h1 className="text-5xl font-serif font-bold text-center text-blue-800 pt-20">
           Customer Reviews(3)
         </h1>
-        <div className="mt-10 grid grid-cols-3 m-5">
+        <div className="mt-10 grid grid-cols-3 mx-5 mb-1">
           {threeReviews.map((review) => (
             <Review key={review.id} review={review} />
           ))}
         </div>
-        <div className="flex justify-center mt-16 mb-10">
+        <div className="flex justify-center">
           <button
             onClick={() => navigate("/reviews")}
             className="bg-blue-500 hover:bg-blue-700 text-2xl font-serif font-bold px-5 py-1 rounded-full text-center pb-1"

@@ -65,7 +65,7 @@ const Graph = () => {
           Investment VS Revenue
         </h1>
       </section>
-      <section className="pb-16">
+      <section>
         <PieChart width={1000} height={450}>
           <Pie
             data={data}
